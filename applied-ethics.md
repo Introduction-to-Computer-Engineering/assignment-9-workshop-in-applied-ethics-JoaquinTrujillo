@@ -95,9 +95,12 @@ To ensure that our creation is holding on to our orginial idea and intentions we
 4. **(BONUS) Ethical codes are vulnerable to _hostile takeover_ of the adopting organization. Pick one person from your group and let them _remove 3 points_ from your Code, at their discretion, to be the most damaging overall.**
 
 **Bruce's criticisms** 
-	1.*Follow copyright laws, our work will be honest and original
-	2. *Be transparent, let the user know exactly what data/information we are recieving and taking
-	3. *No employee will accept or convey a bribery.
+
+1.*Follow copyright laws, our work will be honest and original
+	
+2. *Be transparent, let the user know exactly what data/information we are recieving and taking
+	
+3. *No employee will accept or convey a bribery.
 	
   **1. Below, discuss how and why the Code has been weakened.**
   
